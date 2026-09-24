@@ -264,6 +264,22 @@ fast.
 
 ---
 
+## License
+
+| Content | License | You may |
+|---|---|---|
+| **Code** (every `.py` file) | [MIT](LICENSE) | Use it, change it, ship it commercially — just keep the copyright notice |
+| **Text** (every `.md` file, both editions) | [CC BY 4.0](LICENSE-docs) | Share it, adapt it, translate it, teach with it, including commercially — with attribution |
+
+Want to teach this to your own team, translate it, turn it into videos, or lift parts into
+your own material? Go ahead. Just credit it.
+
+The corpus is three Tang-dynasty poems (*Quiet Night Thoughts*, *Ode to the Goose*,
+*Spring Dawn*), all long in the public domain. The remaining example sentences
+(`苹果发布新手机` and friends) were written for this book.
+
+---
+
 ## One last thing
 
 This book holds a single line:
